@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-13T04:23:51 EET" name="Default suite" finished-at="2024-07-13T04:24:05 EET" duration-ms="13055">
+    <groups>
+    </groups>
+    <test started-at="2024-07-13T04:23:51 EET" name="Default test" finished-at="2024-07-13T04:24:05 EET" duration-ms="13055">
+      <class name="UI.TestsRequired">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:UI.TestsRequired@32115b28]" started-at="2024-07-13T04:23:51 EET" name="setUp" finished-at="2024-07-13T04:23:53 EET" duration-ms="1073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:UI.TestsRequired@32115b28]" started-at="2024-07-13T04:23:53 EET" name="beforeMethod" finished-at="2024-07-13T04:23:54 EET" duration-ms="1179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="aTest1()[pri:1, instance:UI.TestsRequired@32115b28]" started-at="2024-07-13T04:23:54 EET" name="aTest1" description="this is a the username and password fields are on the main screen of the application test" finished-at="2024-07-13T04:23:54 EET" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTest1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:UI.TestsRequired@32115b28]" started-at="2024-07-13T04:23:54 EET" name="afterMethod" finished-at="2024-07-13T04:23:56 EET" duration-ms="2002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:UI.TestsRequired@32115b28]" started-at="2024-07-13T04:23:56 EET" name="beforeMethod" finished-at="2024-07-13T04:23:56 EET" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bTest2()[pri:2, instance:UI.TestsRequired@32115b28]" started-at="2024-07-13T04:23:56 EET" name="bTest2" description="this is a valid credentials work test" finished-at="2024-07-13T04:23:56 EET" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTest2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:UI.TestsRequired@32115b28]" started-at="2024-07-13T04:23:56 EET" name="afterMethod" finished-at="2024-07-13T04:23:58 EET" duration-ms="2008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:UI.TestsRequired@32115b28]" started-at="2024-07-13T04:23:58 EET" name="beforeMethod" finished-at="2024-07-13T04:23:58 EET" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="cTest3()[pri:3, instance:UI.TestsRequired@32115b28]" started-at="2024-07-13T04:23:58 EET" name="cTest3" description="this is a wrong credentials work test" finished-at="2024-07-13T04:23:58 EET" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cTest3 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:UI.TestsRequired@32115b28]" started-at="2024-07-13T04:23:58 EET" name="afterMethod" finished-at="2024-07-13T04:24:00 EET" duration-ms="2012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:UI.TestsRequired@32115b28]" started-at="2024-07-13T04:24:00 EET" name="beforeMethod" finished-at="2024-07-13T04:24:00 EET" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="dTest4()[pri:4, instance:UI.TestsRequired@32115b28]" started-at="2024-07-13T04:24:00 EET" name="dTest4" description="this is a empty Username test" finished-at="2024-07-13T04:24:00 EET" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dTest4 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:UI.TestsRequired@32115b28]" started-at="2024-07-13T04:24:00 EET" name="afterMethod" finished-at="2024-07-13T04:24:02 EET" duration-ms="2012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:UI.TestsRequired@32115b28]" started-at="2024-07-13T04:24:02 EET" name="beforeMethod" finished-at="2024-07-13T04:24:02 EET" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="eTest5()[pri:5, instance:UI.TestsRequired@32115b28]" started-at="2024-07-13T04:24:02 EET" name="eTest5" description="this is a empty password test" finished-at="2024-07-13T04:24:03 EET" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eTest5 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:UI.TestsRequired@32115b28]" started-at="2024-07-13T04:24:03 EET" name="afterMethod" finished-at="2024-07-13T04:24:05 EET" duration-ms="2006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- UI.TestsRequired -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
